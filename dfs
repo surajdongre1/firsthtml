@@ -1,0 +1,42 @@
+[33mcommit 162a209b4553cd4371d4fa185b6cfb4128dbcbb2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Suraj <mail8don@gmail.com>
+Date:   Fri Mar 18 16:07:40 2022 +0530
+
+    style corrected
+
+[33mcommit e64e1222d5617eee8e05b87b68457b5a48a87a19[m
+Merge: 12137ed 79917d0
+Author: Suraj <mail8don@gmail.com>
+Date:   Fri Mar 18 15:43:38 2022 +0530
+
+    fixed merge conflict
+
+[33mcommit 12137ede4425f2960210ae75d968196081584c10[m
+Author: Suraj <mail8don@gmail.com>
+Date:   Fri Mar 18 15:39:59 2022 +0530
+
+    new word added
+
+[33mcommit 79917d01e503fc9d813cde90d23003637d522c7c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Suraj <92625942+surajdongre1@users.noreply.github.com>
+Date:   Fri Mar 18 15:37:33 2022 +0530
+
+    add style
+
+[33mcommit 2548f52c60d8aefb64be1298684340863b964f20[m
+Author: Suraj <92625942+surajdongre1@users.noreply.github.com>
+Date:   Fri Mar 18 15:19:55 2022 +0530
+
+    add h2
+
+[33mcommit e7e991840007ce8d76f72899142efb4985d279b8[m
+Author: Suraj <mail8don@gmail.com>
+Date:   Fri Mar 18 15:10:18 2022 +0530
+
+    heading added
+
+[33mcommit 73de91222f308c5a65424285af7dc0448344d324[m
+Author: Suraj <mail8don@gmail.com>
+Date:   Fri Mar 18 14:45:25 2022 +0530
+
+    login added
